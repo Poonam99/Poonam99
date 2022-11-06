@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I am Poonam Tabassum
+- I am currently learning Web Development..
+- Watching Movies, reading Novels, and wall painting are my hobbies.
+- Studying in the department of CSE at Bangladesh University of Business and Technology(BUBT).
+- Learning HTML, CSS, React Framework and MongoDB.
+
 
 <!--
 **Poonam99/Poonam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
